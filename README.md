@@ -2,7 +2,7 @@
 
 # Project 1: Webscraping and the Journey for the Most Succesful Movies
 
-#### Project Members:  Florencia Leoni and Fhel Dimaano
+#### Project Members:  Florencia Leoni and Fhel Dimano
 
 The objective of this project was to perform exploratory data analysis on the film industry, define measures of success for a production company, and finish with **meaningful insights** that can help the CEO of the production company make the right business decisions to achieve success.
 
