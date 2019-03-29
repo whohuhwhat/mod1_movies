@@ -1,6 +1,6 @@
-## H2 Flatiron School - Data Science
+## Flatiron School - Data Science
 
-# H1 Project 1: Webscraping and the Journey for the Most Succesful Movies
+# Project 1: Webscraping and the Journey for the Most Succesful Movies
 
 #### Project Members:  Florencia Leoni and Fhel Dimaano
 
@@ -25,5 +25,3 @@ Throughout the analysis we focused on 5 main questions:
         5. What has Lionsgate (fictional client) been up to in the past few years?
 
 The answer to these questions can be found in **The_Movie_Project** file, along with some additional insights, and visualizations.
-
-Project Members:  Florencia Leoni and Fhel Dimaano
