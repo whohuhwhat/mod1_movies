@@ -7,8 +7,9 @@
 The objective of this project was to perform exploratory data analysis on the film industry, define measures of success for a production company, and finish with **meaningful insights** that can help the CEO of the production company make the right business decisions to achieve success.
 
 In order to accomplish this goal we gathered data by webscrabing and making API requests from the following websites:
-            - IMDB.com *Webscraping*
-            - TMDB.com *API requests*
+
+            1. IMDB.com *Webscraping*
+            2. TMDB.com *API requests*
 
 The functions and scripts that were used in this project are in *Python and SQLite3*; you can find a clean commented version on the **Final_Code_Notebook**. If you'd like to see how we arrived at this point, please take a look at the files in the **Archive** folder.
 
