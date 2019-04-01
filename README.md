@@ -27,3 +27,6 @@ Throughout the analysis we focused on 5 main questions:
         5. What has Lionsgate (fictional client) been up to in the past few years?
 
 The answer to these questions can be found in **The_Movie_Project** file, along with some additional insights, and visualizations.
+
+To start we constructed a pairplot using the Seaborn library to determine if there were any relationships within our data.
+![pairplot](https://user-images.githubusercontent.com/30739929/55332611-ba8fea00-5463-11e9-9349-2d35c28f7ec1.png)
