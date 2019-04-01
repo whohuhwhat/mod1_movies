@@ -50,12 +50,14 @@ Day vs Revenue
 Even though more movies are released in January, and on Fridays, data shows those days are not the ones with the highest average revenue. On the contrary, the months with the highest mean revenue are May and June, closely followed by December and April; and the days of the week with the highest mean revenue are Tuesday and Wednesday.
 This data led to our **first actionable insight**:  Movies should aim for a May, June or December release as those months returned the highest average revenue.
 
-We went back to our data to look for other relationships:
+We went back to our data to look for other relationships.
 
 ### The higher the budget, the higher the returns?
-We took a look at budget vs revenue to determine if higher budget meant higher revenue:  
+We took a look at budget vs revenue to determine if higher budget meant higher revenue.  The following linear regression graph shows that while there is a relationship, it is not a strong one.  The line is pulled by outliers in the data, rather than showing a strong linear relationship, it shows a small clustering near the origin.
+
+
 <img width="838" alt="03 Higher Budget Higher Returns" src="https://user-images.githubusercontent.com/30739929/55337299-62a9b100-546c-11e9-9c4c-0eb6019602e8.png">
-This linear regression graph shows that while there is a relationship, it is not a strong one.  The line is pulled by outliers in the data, rather than showing a strong linear relationship, it shows a small clustering near the origin
+
 
 ### Is this a popularity contest?
 As per the graph below, though initially it is clustering near the origin, there is a positive linear relationship between the vote count and the revenue. Meaning that after all the movie business IS a popularity contest.
