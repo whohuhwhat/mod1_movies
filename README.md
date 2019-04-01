@@ -73,6 +73,7 @@ Mean Revenue by Genre (2016)
 <img width="851" alt="06 genre 2016" src="https://user-images.githubusercontent.com/30739929/55338360-9554a900-546e-11e9-918b-99588d0e4b7c.png">
 Mean Revenue by Genre (2017)
 <img width="827" alt="07 genre 2017" src="https://user-images.githubusercontent.com/30739929/55338361-9554a900-546e-11e9-895c-04be44dc48a6.png">
+
 Mean Revenue by Genre (2018)
 <img width="837" alt="08 genre 2018" src="https://user-images.githubusercontent.com/30739929/55338362-9554a900-546e-11e9-93d1-f433767dbf90.png">
 
